@@ -3,7 +3,7 @@
 ##  Prereq
 
 install Anaconda
-In your IDE, switch to your anaconda python interpreter
+In your IDE, switch to your anaconda python interpreter.
 
 MacOS/Linux
 `export FLASK_APP=helloworld.py`
