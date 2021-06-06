@@ -14,3 +14,7 @@ Windows
 ## Run application
 
 `flask run`
+
+## used this as a tute
+
+https://betterprogramming.pub/building-your-first-website-with-flask-part-2-6324721be2ae
