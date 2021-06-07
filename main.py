@@ -3,7 +3,7 @@ from flask import Flask, render_template # include the flask library
 app = Flask(__name__)
 
 #https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask/34903502  if we wanna go live
-app.secret_key = 'personal secret'
+app.secret_key = 'personal secrets'
 app.config['SESSION_TYPE'] = 'filesystem'
 
 @app.route("/")
